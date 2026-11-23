@@ -1,0 +1,7 @@
+# Dataset contains personal-style details (names etc.) - keep it out of the repo
+pii_dataset.csv
+eng_stp_words
+data/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
